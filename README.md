@@ -116,9 +116,7 @@ Deeper PQCs improve accuracy but increase inference latency — exactly the trad
 [4] "Fast Quantum Convolutional Neural Networks for Low-Complexity Object Detection in Autonomous Driving Applications", *IEEE Transactions on Mobile Computing*, 2025. <br/>
 [5] "Dynamic Multi-PQC Quantum Convolutional Neural Network for Real-Time Pothole Detection", *IEEE SPAWC*, 2025. <br/>
 [6] "Quantum-Inspired Multi-Scale Object Detection in UAV Imagery", *IEEE Access*, 2025. <br/>
-[7] CenterNet
-[8] RTM3D
-[9] Libra_R-CNN
+
 
 *Lyapunov optimization for real-time ML systems:* <br>
 [10] M. J. Neely, "Stochastic Network Optimization with Application to Communication and Queueing Systems," Morgan & Claypool, 2010.
