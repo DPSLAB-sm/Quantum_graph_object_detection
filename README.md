@@ -111,14 +111,14 @@ Deeper PQCs improve accuracy but increase inference latency — exactly the trad
 
 ## REFERENCE
 [1] "Joint Optimization of Quantum-Inspired Real-Time Road Analysis and AoI-Aware Data Transmission for Intelligent CACC Systems" (this work) <br/>
-[2] "Object Detector for Autonomous Vehicles Based on Improved Faster RCNN": [Improved Faster R-CNN](https://github.com/Ziruiwang409/improved-faster-rcnn/blob/main/README.md) <br/>
-[3] "Torch-quantum": [QNN Implementation](https://github.com/mit-han-lab/torchquantum) <br/>
+[2] "Object Detector for Autonomous Vehicles Based on Improved Faster RCNN": [Improved Faster R-CNN]
+[3] "Torch-quantum"
 [4] "Fast Quantum Convolutional Neural Networks for Low-Complexity Object Detection in Autonomous Driving Applications", *IEEE Transactions on Mobile Computing*, 2025. <br/>
 [5] "Dynamic Multi-PQC Quantum Convolutional Neural Network for Real-Time Pothole Detection", *IEEE SPAWC*, 2025. <br/>
 [6] "Quantum-Inspired Multi-Scale Object Detection in UAV Imagery", *IEEE Access*, 2025. <br/>
-[7] CenterNet: [Objects as Points paper](https://arxiv.org/abs/1904.07850), [PyTorch Implementation](https://github.com/xingyizhou/CenterNet) <br>
-[8] RTM3D: [PyTorch Implementation](https://github.com/maudzung/RTM3D) <br>
-[9] Libra_R-CNN: [PyTorch Implementation](https://github.com/OceanPang/Libra_R-CNN) <br>
+[7] CenterNet
+[8] RTM3D
+[9] Libra_R-CNN
 
 *Lyapunov optimization for real-time ML systems:* <br>
 [10] M. J. Neely, "Stochastic Network Optimization with Application to Communication and Queueing Systems," Morgan & Claypool, 2010.
