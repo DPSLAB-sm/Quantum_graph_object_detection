@@ -1,2 +1,2 @@
-# Quantum_graph_object_detection
+# Quantum Graph Object Detection
 Graph-based quantum convolutional neural network for object detection.
