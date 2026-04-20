@@ -4,24 +4,6 @@ This repository covers a Quantum Graph-based Object Detection framework for real
 
 QGOD integrates the lightweight feature extraction capability of Quantum Convolutional Neural Networks (QCNNs) with the relational learning ability of Graph Convolutional Networks (GCNs). By encoding local quantum features through QCNNs and modeling inter-patch correlations via GCNs, QGOD achieves a compact feature representation while preserving reliable detection performance in resource-constrained vehicular environments. In addition, a Lyapunov-based adaptive controller dynamically adjusts the depth of the Parameterized Quantum Circuit (PQC) to balance inference accuracy and queue stability under real-time operating conditions.
 
-## Demo Video
-<!-- TODO: Replace with QGOD demo video link -->
-![qgod_demo](https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
-
-
-## 0. References
-This code is implemented based on the Quantum Convolution for Multi-Channel Object Detection (QCOD) framework, which itself extends "Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds" [Link](https://github.com/maudzung/SFA3D). QGOD extends QCOD by introducing a graph convolutional layer for relational reasoning across quantum-encoded image patches, together with a Lyapunov-based PQC depth controller.
-
-To cite the baseline model, please refer to the following:
-```
-@misc{Super-Fast-Accurate-3D-Object-Detection-PyTorch,
-  author =       {Nguyen Mau Dung},
-  title =        {{Super-Fast-Accurate-3D-Object-Detection-PyTorch}},
-  howpublished = {\url{https://github.com/maudzung/SFA3D}},
-  year =         {2020}
-}
-```
-
 ## 1. Hierarchy
 We implement the proposed QGOD model, which combines Quantum Convolution, a Graph Convolutional layer, and a Lyapunov-based PQC depth controller for adaptive real-time detection.
 The current repository structure is as follows.
